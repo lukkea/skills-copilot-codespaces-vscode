@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Create a web server
 // 2. Create a route for '/' and send a welcome message in response
 // 3. Create a route for '/comments' and send all the comments as response
